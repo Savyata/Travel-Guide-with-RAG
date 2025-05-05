@@ -128,6 +128,9 @@ NLP_Final_Project_Part2_SR.ipynb for inference and evaluation.
 
 ## Author
 Savyata Regmi
+
 MS in Data Science
+
 University of New Haven
+
 Spring 2025 | DSCI 6004 NLP Final Project
